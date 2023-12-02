@@ -1,3 +1,73 @@
 <resources>
-    <string name="app_name">myCityApp</string>
+    <string name="app_name">Almaty, Kazakhstan</string>
+    <string name="back_button">Back</string>
+
+    <string name="restaurant_category">Coffee shops</string>
+    <string name="western_category">Parks</string>
+    <string name="grocery_category">Restaurants</string>
+    <string name="must_see_category">Shopping centers</string>
+
+    <string name="yasmines_title">URBO</string>
+    <string name="yasmines_description">Urbo coffee is a stylish chain of coffee shops with an international menu. The cozy interior is ideal for sincere conversations with friends and business meetings.</string>
+    <string name="yasmines_address">Seven Hills residential complex, 277 Gagarin Street</string>
+
+    <string name="_168_title">Starbucks</string>
+    <string name="_168_description">Starbucks has been represented in the Middle East region since 1999 on the basis of a licensing agreement with a trading partner and licensee MH Alshaya Co., a private Kuwaiti family business.</string>
+    <string name="_168_address">World Class, 89 Nauryzbai Batyr Street</string>
+
+    <string name="beertown_title">Coffee BOOM</string>
+    <string name="beertown_description">Coffee BOOM is a recognizable and beloved brand, which is associated primarily with delicious cuisine, high—quality service and a pleasant and cozy atmosphere.</string>
+    <string name="beertown_address">111, Dostyk Plaza, Samal-2</string>
+
+    <string name="spageddy_title">TEADOT</string>
+    <string name="spageddy_description">Do you want to arrange a kind of tea ceremony with different flavors of tea? We took all the famous varieties of Chinese tea, added some delicious toppings and got an original product that you can try in our TEADOT tea house.</string>
+    <string name="spageddy_address">247 Rozybakieva Street</string>
+
+    <string name="loblaws_title">Sandyq</string>
+    <string name="loblaws_description">Sandyk is the original Kazakh name of a unique household item, one of the oldest types of furniture, in which precious products for each family were stored and transported. The purpose of our restaurant with the same name "Sandyk" is to show the age–old traditions in cooking, food, hospitality in general, and to present unique items of historical and cultural significance, household products of the South Kazakhstan region.</string>
+    <string name="loblaws_address">Abylai Khan Avenue</string>
+
+    <string name="costco_title">Mizam</string>
+    <string name="costco_description">The main emphasis in the restaurant "Mizam" is on Uighur cuisine. Here you can try many types of lagman: traditional lagman at home, suru, guira, momo-ru, tu-du, hao-hua and others. In order for you to be able to taste lagman, prepared according to old traditional recipes, we specially invited a master from China with extensive experience. And also our menu includes manti, pilaf, 6 types of shish kebab and other oriental dishes.</string>
+    <string name="costco_address">Bauyrzhan Momyshuly Avenue, 62nd floor</string>
+
+    <string name="nofrills_title">Shafran</string>
+    <string name="nofrills_description">Shafran is a chain of halal canteens that operate in three formats: Shafran is a restaurant-type canteen, where hits of European, Eastern and Asian cuisines are collected under one roof, Shafran is a burger, where they rely on fast food dishes, and outlets on food courts with a limited menu are pasta, pizza and soups. All establishments of the chain are united by recognizable design, high quality of food and service.</string>
+    <string name="nofrills_address">599 Fanshawe Park Road West</string>
+
+    <string name="my_kitchen_title">Tary</string>
+    <string name="my_kitchen_description">Ethno-coffee shop Tary is a cozy place with a Kazakh flavor, working 24/7. Those who are familiar with the Kazakh cuisine restaurant Sandyq will notice similar elements in the interior, dishes and the concept of the institution itself, because Tary is a lightweight version of the restaurant. The peculiarity of the coffee shop is that here you can taste the Kazakh national delicacy — tars (sweet ground millet).</string>
+    <string name="my_kitchen_address">Abylay, Office 217, Abylay Khan Avenue</string>
+
+    <string name="med_hall_title">Central Park</string>
+    <string name="med_hall_description">Gorky Park of Culture and Recreation is a park in the Medeu district of Alma—Ata. It was founded in 1856, originally called the "State Garden". It is located on an area of 47 hectares.</string>
+    <string name="med_hall_address">Gogol Street, 1</string>
+
+    <string name="uc_hill_title">Park of the First President</string>
+    <string name="uc_hill_description">Park named after. The arboretum of the First President of the Republic of Kazakhstan is located at the intersection of Navoi Street and Al-Farabi Ave. in the Bostandyk district of Almaty.</string>
+    <string name="uc_hill_address">Navoi Street</string>
+
+    <string name="taylor_title">28 Panfilov guards</string>
+    <string name="taylor_description">The park named after 28 Panfilov Guards is a city park located in the Medeu district of Alma—Ata on an area of about 18 hectares. It is bounded by Kunaev, Gogol, Zenkov, Kazybek bi streets. It was founded in 1872 by the gardener V. Kryshtopenko as a City garden. </string>
+    <string name="taylor_address">Malaya Almatinka river, Almaty</string>
+
+    <string name="rec_title">Halyk Square Alley</string>
+    <string name="rec_description">Halyk Square is a public space, a green island for recreation in the heart of the business part of Almaty, which is located along Al—Farabi Avenue between the Halyk Bank building and the Almaty Theatre. One of the goals of creating Halyk Square was to maintain a good ecology and improve air flow. A large number of shrubs have been planted in the park, due to the fact that the shrubs serve as a refuge for the disappearing urban fauna.</string>
+    <string name="rec_address">34 Al-Farabi Avenue</string>
+
+    <string name="transit_title">Aport</string>
+    <string name="transit_description">A large shopping center with many international brand stores, a food court, a fitness center and a cinema.</string>
+    <string name="transit_address">Rayymbek Avenue</string>
+
+    <string name="trail_title">Mega Alma-Ata</string>
+    <string name="trail_description">MEGA Alma-Ata shopping mall is the first shopping and entertainment center in Kazakhstan to receive the BREEAM In-Use International certificate. BREEAM In-Use is a unique certification program that allows you to evaluate functioning buildings for compliance with the standards of efficient operation and maintenance of real estate. The project was rated VERY GOOD by category: management, health and comfort, water, eco-friendly materials, energy-saving technologies, etc. MEGA Alma-Ata shopping center is marked with the "Flawlessly" quality mark of the National League of Consumers of Kazakhstan.</string>
+    <string name="trail_address">247A Rozybakieva Street</string>
+
+    <string name="bg_title">Grand Park</string>
+    <string name="bg_description">Grand Park is a full-fledged shopping and entertainment complex for the whole family. With a total area of 250,000 m2.</string>
+    <string name="bg_address">Kabdolova str.1</string>
+
+    <string name="tin_title">Moskva metropolitan</string>
+    <string name="tin_description">The MOSCOW Metropolitan shopping center is designed and built in accordance with modern international standards and meets the highest functional and aesthetic requirements of the residents of the city.</string>
+    <string name="tin_address">8th microdistrict, 37/1</string>
 </resources>
